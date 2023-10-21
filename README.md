@@ -1,11 +1,10 @@
+![Banner](https://thumbsnap.com/i/8kgfWckM.jpg)
 ### Здравствуйте 👋, меня зовут Михаил
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mike_doroshenko)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:doroshenko.mikhail@yandex.ru)
 
-
 ### я Java разработчик
-![Banner](https://thumbsnap.com/i/8kgfWckM.jpg)
 
 #### Технологии:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
