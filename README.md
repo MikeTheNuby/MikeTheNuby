@@ -1,4 +1,4 @@
-![Banner](https://thumbsnap.com/i/t9CZ8kzN.jpg)
+![Banner](https://thumbsnap.com/i/fczkLm57.jpg)
 ### Здравствуйте 👋, меня зовут Михаил
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mike_doroshenko)
