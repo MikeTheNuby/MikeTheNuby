@@ -4,12 +4,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mike_doroshenko)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:doroshenko.mikhail@yandex.ru)
- 
 
-
-
-!(https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white) 111111
-!(https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white) 111111
 
 ### я Java разработчик
 ![I am GitHub Readme Generator's creator](https://thumbsnap.com/i/kWqB2aT4.jpg)
