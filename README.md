@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Mike
+### Hi there 👋, меня зовут Михаил
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://thumbsnap.com/i/kWqB2aT4.jpg)
 
@@ -13,6 +13,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeTheNuby)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeTheNuby&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeTheNuby&show_icons=true&count_private=true)  
 
-![Profile views](https://gpvc.arturio.dev/MikeTheNuby)  
