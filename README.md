@@ -5,7 +5,7 @@
 
 
 ### я Java разработчик
-![I am GitHub Readme Generator's creator]([https://thumbsnap.com/i/kWqB2aT4.jpg](https://thumbsnap.com/i/8kgfWckM.jpg))
+![Banner]((https://thumbsnap.com/i/8kgfWckM.jpg))
 
 #### Технологии:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
