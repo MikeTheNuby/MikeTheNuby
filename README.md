@@ -1,5 +1,4 @@
 ![Banner](https://thumbsnap.com/i/fczkLm57.jpg)
-### Здравствуйте 👋, меня зовут Михаил
 
 <h1 align="center">Здравствуйте, меня зовут <a href="https://daniilshat.ru/" target="_blank">Михаил</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
