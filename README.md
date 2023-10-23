@@ -18,3 +18,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeTheNuby&show_icons=true&count_private=true)  
 
+
+[![codewars](https://www.codewars.com/users/NubyNub/badges/large)](https://www.codewars.com/users/NubyNub)   
