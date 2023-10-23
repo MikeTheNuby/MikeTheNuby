@@ -20,3 +20,4 @@
 
 
 [![codewars](https://www.codewars.com/users/M.Doroshenko/badges/large)](https://www.codewars.com/users/M.Doroshenko)   
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MDoroshenko&theme=dark)](https://github.com/MDoroshenko/leetcode-stats)
