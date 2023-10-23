@@ -1,10 +1,12 @@
 ![Banner](https://thumbsnap.com/i/fczkLm57.jpg)
 ### Здравствуйте 👋, меня зовут Михаил
 
+<h1 align="center">Здравствуйте, меня зовут <a href="https://daniilshat.ru/" target="_blank">Михаил</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">я Java разработчик</h3>
+
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mike_doroshenko)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:doroshenko.mikhail@yandex.ru)
-
-### я Java разработчик
 
 #### Технологии:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
