@@ -19,7 +19,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeTheNuby&show_icons=true&count_private=true)  
 
-https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/)
 [![codewars](https://www.codewars.com/users/M.Doroshenko/badges/large)](https://www.codewars.com/users/M.Doroshenko)   
-https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MDoroshenko&theme=dark)](https://github.com/MDoroshenko/leetcode-stats)
+
