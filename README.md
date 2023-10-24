@@ -28,7 +28,7 @@
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeTheNuby&layout=compact&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeTheNuby&theme=transparent&show_icons=true)
-![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikeTheNuby&theme=radical)
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikeTheNuby&theme=github_dark)
 
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/)    
 [![codewars](https://www.codewars.com/users/M.Doroshenko/badges/large)](https://www.codewars.com/users/M.Doroshenko)   
