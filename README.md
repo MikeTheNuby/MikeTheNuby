@@ -29,6 +29,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeTheNuby&theme=transparent&show_icons=true)  
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MikeTheNuby&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/)    
 [![codewars](https://www.codewars.com/users/M.Doroshenko/badges/large)](https://www.codewars.com/users/M.Doroshenko)   
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/)    
